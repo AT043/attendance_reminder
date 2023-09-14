@@ -1,0 +1,4 @@
+Flask
+ecdsa
+pywebpush
+holidays
